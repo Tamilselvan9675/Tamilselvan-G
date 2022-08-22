@@ -23,15 +23,15 @@
 
 ### 🤝 Connect with me:
 
-[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img alt="YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 ### 🍻 Support the channel:
 
-[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
-[<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=052D46" />][patron]
+[<img alt="YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
+[<img alt="Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=052D46" />][patron]
 
 ---
 
