@@ -1,4 +1,6 @@
-<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png"">
+<img src="https://github.com/Tamilselvan9675/Tamilselvan-G/blob/main/asset/logo.png">
+<img src="https://github.com/Tamilselvan9675/Tamilselvan-G/blob/main/asset/logo.png">
+
 
 <div align="center">
   <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">
