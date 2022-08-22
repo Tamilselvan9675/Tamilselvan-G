@@ -17,7 +17,7 @@
 
 ## I'm a Front-End Developer
 
-- 📍 I’m From Anur Cloud Technologies
+- 📍 I’m From Anur Cloud Technologies Pvt Ltd
 - 💻 1+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 
@@ -55,7 +55,7 @@
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/AE-After%20Effects-blue" />&nbsp;
+<img alt="After Effects" src="https://img.shields.io/badge/AE-AfterEffects-31A8FF.svg?&style=for-the-badge&logo=After-effects&logoColor=fff" />&nbsp;
 
 
 [youtube]: https://youtube.com
