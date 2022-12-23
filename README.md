@@ -2,6 +2,8 @@
 
 <div align="center">
   <a href="https://www.youtube.com/">
+  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  
     
   <a href="https://www.youtube.com/">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
